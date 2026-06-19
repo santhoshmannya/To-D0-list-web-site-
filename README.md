@@ -1,4 +1,4 @@
-# Task Dashboard
+# To-Do list
 
 ## Overview
 
@@ -45,9 +45,6 @@ Task-Dashboard/
 
 No additional installations or dependencies are required.
 
-## Screenshots
-
-Add screenshots of the application here to showcase the user interface and features.
 
 ## Future Enhancements
 
